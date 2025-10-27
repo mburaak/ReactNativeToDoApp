@@ -1,0 +1,24 @@
+# React Native
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcodeproj/xcuserdata/
+
+# Android
+android/build/
+android/app/build/
+android/app/src/main/assets/index.android.bundle
+*.keystore
+.gradle/
+local.properties
+
+# Diğer
+.DS_Store
+*.log
+.env
